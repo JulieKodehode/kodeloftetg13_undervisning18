@@ -1,0 +1,14 @@
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+#removeBtn {
+  width: 100px;
+}
+
+.color {
+  width: 200px;
+  background-color: blue;
+}
